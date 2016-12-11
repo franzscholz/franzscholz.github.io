@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Impressum
+Angaben gemäß § 5 TMG:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Franz Scholz
+Softwareentwicklung & IT-Beratung
+Rugenbergen 14a
+25492 Heist
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Kontakt:
+
+Telefon:	+49 4122 4080179
+Telefax:	+49 4122 4081477
+E-Mail:	franz@franzscholz.net
+Umsatzsteuer-ID:
+
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
+DE260323609
+
+Quelle: https://www.e-recht24.de
+
