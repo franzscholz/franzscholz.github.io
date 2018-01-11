@@ -1,7 +1,8 @@
 ---
 permalink: /
 ---
-Hello World!
+# Portfolio
+
 {% for item in site.portfolio %}
   <h2>{{ item.title }}</h2>
   <p>{{ item.description }}</p>
