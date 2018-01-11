@@ -5,5 +5,13 @@ locale: "de-DE"
 name: "Franz Scholz"
 description: "Mein Profil auf GitHub"
 repository: "franzscholz/franzscholz.github.io"
+author:
+  name: "Franz Scholz"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Consulting on Agile, Open Source, Embedded Projects"
+  email: "franz@franzscholz.net"
+  uri: "http://www.franzscholz.net/"
 twitter:
+  username: "franzscholz"
+facebook:
   username: "franzscholz"
