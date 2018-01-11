@@ -25,6 +25,11 @@ facebook:
 
 include: ["_pages"]
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _pages
   - scope:
@@ -39,6 +44,6 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
 
