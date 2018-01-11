@@ -2,8 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 title: "Franz Scholz"
 locale: "de-DE"
-name: "Franz Scholz"
-description: "Mein Profil auf GitHub"
+name: "franzscholz.github.io"
+description: "Franz Scholz auf GitHub"
 repository: "franzscholz/franzscholz.github.io"
 author:
   name: "Franz Scholz"
