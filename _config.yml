@@ -1,1 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes"
+
+title: "Franz Scholz"
+locale: "de-DE"
+name: "Franz Scholz"
+description: "Mein Profil auf GitHub"
+repository: "franzscholz/franzscholz.github.io"
+twitter:
+  username: "franzscholz"
