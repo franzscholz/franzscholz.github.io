@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: Portfolio
 ---
 {% for item in site.portfolio %}
   <h2>{{ item.title }}</h2>
