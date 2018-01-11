@@ -1,7 +1,6 @@
 ---
+title: Agile Development Consulting
 ---
-# Agile Development Consulting
-
 2017:
 
 Einführung und Betreung von agilen Softwareentwicklung bei einer Hardware-Entwicklungsfirma im Großraum Hamburg.
