@@ -1,6 +1,6 @@
 ---
-title: About / Impressum
-permalink: /about/
+title: Impressum
+permalink: /imprint/
 ---
 
 Impressum
