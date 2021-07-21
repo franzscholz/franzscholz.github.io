@@ -7,6 +7,7 @@ title: "franzscholz.github.io"
 locale: "de-DE"
 name: "Franz Scholz"
 description: "Franz Scholz auf GitHub"
+url: "http://franzscholz.github.io"
 repository: "franzscholz/franzscholz.github.io"
 author:
   name: "Franz Scholz"
@@ -28,3 +29,8 @@ facebook:
 
 include: ["_pages"]
 
+footer:
+  links:
+    - label: "Imprint"
+      icon: "fa fa-id-card"
+      url: "imprint/"
