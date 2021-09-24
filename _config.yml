@@ -1,0 +1,37 @@
+remote_theme: "b2a3e8/jekyll-theme-console"
+theme: "jekyll-theme-console"
+markdown: kramdown
+
+plugins:
+    - jekyll-include-cache
+
+title: "franzscholz.github.io"
+locale: "de-DE"
+name: "Franz Scholz"
+description: "Franz Scholz auf GitHub"
+url: "http://franzscholz.github.io"
+repository: "franzscholz/franzscholz.github.io"
+author:
+  name: "Franz Scholz"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Consulting on Agile, Open Source, Linux, Embedded Projects"
+  location: "Heist, Germany"
+  email: "franz@franzscholz.net"
+  uri: "http://www.franzscholz.net/"
+  github: "franzscholz"
+  twitter: "franzscholz"
+  xing: "Franz_Scholz"
+
+twitter:
+  username: "franzscholz"
+facebook:
+  username: "franzscholz"
+
+header_pages:
+  - index.md
+  - imprint.md
+
+style: hacker
+
+footer: 'follow me on <a href="https://twitter.com/franzscholz/">twitter</a>'
+
