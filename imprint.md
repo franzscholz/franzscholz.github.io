@@ -14,9 +14,7 @@ Softwareentwicklung & IT-Beratung
 Rugenbergen 14a
 25492 Heist
 
-Telefon: +49 4122 4080179
-Telefax: +49 4122 4081477
-E-Mail:	franz@franzscholz.net
+E-Mail:	franz.scholz@gmail.com
 </pre>
 
 Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
