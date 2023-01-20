@@ -16,16 +16,10 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
   bio: "Consulting on Agile, Open Source, Linux, Embedded Projects"
   location: "Heist, Germany"
-  email: "franz@franzscholz.net"
-  uri: "http://www.franzscholz.net/"
+  email: "franz.scholz@gmail.com"
+  uri: "https://franzscholz.github.io/"
   github: "franzscholz"
-  twitter: "franzscholz"
   xing: "Franz_Scholz"
-
-twitter:
-  username: "franzscholz"
-facebook:
-  username: "franzscholz"
 
 header_pages:
   - index.md
@@ -33,5 +27,4 @@ header_pages:
 
 style: hacker
 
-footer: 'follow me on <a href="https://twitter.com/franzscholz/">twitter</a>'
 
