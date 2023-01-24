@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: page
+layout: default
 title: $HOME
 ---
 
@@ -14,3 +14,22 @@ Recent commercial projects include _industrial smart cameras_ and _industrial vi
 
 For freelance projects I can be reached via [email](mailto:{{site.author.email}}).
 
+* * * 
+
+# Impressum
+
+Angaben gemäß § 5 TMG:
+
+```
+Franz Scholz
+Softwareentwicklung & IT-Beratung
+Rugenbergen 14a
+25492 Heist
+
+E-Mail:	franz.scholz@gmail.com
+```
+
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
+DE293459959
+
+* * *

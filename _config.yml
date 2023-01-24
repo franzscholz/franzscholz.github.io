@@ -1,30 +1,14 @@
-remote_theme: "b2a3e8/jekyll-theme-console"
-theme: "jekyll-theme-console"
+# Use https://github.com/pages-themes/hacker 
+remote_theme: pages-themes/hacker@v0.2.0
 markdown: kramdown
 
 plugins:
-    - jekyll-include-cache
+  - jekyll-include-cache
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: "franzscholz.github.io"
 locale: "de-DE"
-name: "Franz Scholz"
-description: "Franz Scholz auf GitHub"
 url: "http://franzscholz.github.io"
 repository: "franzscholz/franzscholz.github.io"
-author:
-  name: "Franz Scholz"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "Consulting on Agile, Open Source, Linux, Embedded Projects"
-  location: "Heist, Germany"
-  email: "franz.scholz@gmail.com"
-  uri: "https://franzscholz.github.io/"
-  github: "franzscholz"
-  xing: "Franz_Scholz"
-
-header_pages:
-  - index.md
-  - imprint.md
-
-style: hacker
 
 
