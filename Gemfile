@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
-#gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "jekyll-theme-console"
+gem 'jekyll', '~> 4.2.0'
 
+group :jekyll_plugins do
+    #gem 'github-pages'
+    gem 'jekyll-include-cache'
+    gem 'jekyll-theme-console'
+end
