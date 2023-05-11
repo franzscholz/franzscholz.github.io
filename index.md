@@ -23,8 +23,8 @@ Angaben gemäß § 5 TMG:
 ```
 Franz Scholz
 Softwareentwicklung & IT-Beratung
-Rugenbergen 14a
-25492 Heist
+Mühlenstr. 2
+17094 Burg Stargard
 
 E-Mail:	franz.scholz@gmail.com
 ```
